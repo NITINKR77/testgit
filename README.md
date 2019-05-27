@@ -1,2 +1,1 @@
-# testgit
-this is for git
+# lukemia detection using image processing
